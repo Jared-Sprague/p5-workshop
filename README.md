@@ -29,7 +29,7 @@ Github.com
 
 5. __Tutorial: Basic drawing__ examples [here](https://github.com/Jared-Sprague/p5-workshop/tree/master/01_drawing).
 6. __Tutorial: Variables__ examples [here](https://github.com/Jared-Sprague/p5-workshop/tree/master/02_variables_animation/02_02_variables)
-7. __Tutorial: Animation__ examples [here] (https://github.com/lmccart/p5-workshop/tree/master/02_variables_animation)
+7. __Tutorial: Animation__ examples [here](https://github.com/lmccart/p5-workshop/tree/master/02_variables_animation)
 
 
 ##Resources
@@ -37,7 +37,7 @@ Github.com
 * [p5js.org](http://p5js.org) - p5.js website, includes library, reference, examples, and tutorials
 * [p5.js forum](https://forum.processing.org/two/) - good place for p5.js programming question
 * [Daniel Shiffman's Coding Rainbow](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) - p5.js tutorials
-* [MDN] (https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Best general JavaScript Reference
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Best general JavaScript Reference
 * [Getting Started with p5.js](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772) - by Lauren McCarthy, Casey Reas, and Ben Fry, O'Reilly 2016
 * [Intro to programming for the visual arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) - online class from kadenze, free with sign up
 * [Additional resources page](https://github.com/ITPNYU/ICM-2015/wiki/Resources)
