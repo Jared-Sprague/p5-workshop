@@ -28,7 +28,7 @@ Github.com
   * Can you figure out what each of the lines does? What is the difference between `setup()` and `draw()`?
 
 5. __Tutorial: Basic drawing__ examples [here](https://github.com/Jared-Sprague/p5-workshop/tree/master/01_drawing).
-6. __Tutorial: Variables__ examples [here] (https://github.com/Jared-Sprague/p5-workshop/tree/master/02_variables_animation/02_02_variables)
+6. __Tutorial: Variables__ examples [here](https://github.com/Jared-Sprague/p5-workshop/tree/master/02_variables_animation/02_02_variables)
 7. __Tutorial: Animation__ examples [here] (https://github.com/lmccart/p5-workshop/tree/master/02_variables_animation)
 
 
