@@ -16,7 +16,6 @@ Github.com
   * Switch instructions with another pair. You create a drawing based on their instructions, and they create a drawing based on yours.
   
 3. __Discussion: context__
-  * A few references: [Sol LeWitt](https://en.wikipedia.org/wiki/Sol_LeWitt), [Yoko Ono](https://monoskop.org/images/2/2a/Ono_Yoko_Grapefruit_A_Book_of_Instructions_and_Drawings_by_Yoko_Ono_S_and_S_edition_excerpt.pdf) and other [instruction artists](http://www.e-flux.com/projects/do_it/notes/essay/e002_text.html), Casey Reas Eyeo2012 talk on [Chance Operations](https://vimeo.com/45851523).
   * What is programming?
   * What is Processsing and p5.js?
   * What is happening with the browser?
