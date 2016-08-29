@@ -5,7 +5,7 @@ Forked from: https://github.com/lmccart/p5-workshop
 8/29, 10/24, 11/28, 1/23, 2/27, 3/27, 4/24
 
 ##Required accounts
-CodePen.com
+CodePen.io
 Github.com
 
 ###Monday 8/29 - Hello world
@@ -23,7 +23,7 @@ Github.com
 
 4. __Playing around__
 
-  * Create a Code Pen account: CodePen.com.  All of our club work will be collected here: http://codepen.io/collection/XwWjqZ/
+  * Create a Code Pen account: CodePen.io.  All of our club work will be collected here: http://codepen.io/collection/XwWjqZ/
   * Try adding some of the lines of code from [this list](https://github.com/lmccart/p5-workshop/blob/master/commands.md) into the places where it says `setup()` and `draw()`. Press the play button to run your code.
   * Can you figure out what each of the lines does? What is the difference between `setup()` and `draw()`?
 
